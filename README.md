@@ -1,4 +1,4 @@
-Hi 👋, I'm Denislav Bratoevski
+
 
 <!--
 **DSGramatikov20/DSGramatikov20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
